@@ -1,0 +1,3 @@
+2024-06-07 09:36:16,842 root get_logger logger_config 10 : inicializando
+2024-06-07 09:36:16,844 root get_logger logger_config 30 : inicializando
+2024-06-07 09:36:16,845 root main inicializar_logger 10 : estoy en el main

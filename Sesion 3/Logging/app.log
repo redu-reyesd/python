@@ -1,0 +1,26 @@
+2024-06-03 16:59:56,441 - __main__ - DEBUG - This is a debug message
+2024-06-03 16:59:56,443 - __main__ - INFO - This is an info message
+2024-06-03 16:59:56,443 - __main__ - WARNING - This is a warning message
+2024-06-03 16:59:56,444 - __main__ - ERROR - This is an error message
+2024-06-03 16:59:56,445 - __main__ - CRITICAL - This is a critical message
+2024-06-03 17:17:23,322 - __main__ - INFO - This is an info message
+2024-06-03 17:22:53,450 - __main__ - INFO - This is an info message
+2024-06-03 17:22:53,452 - __main__ - INFO - Hola
+2024-06-03 17:24:53,756 - __main__ - INFO - This is an info message
+2024-06-03 17:24:53,757 - __main__ - INFO - Hola
+2024-06-03 17:25:23,332 - __main__ - INFO - This is an info message
+2024-06-03 17:25:23,334 - __main__ - INFO - Testing
+2024-06-03 17:25:23,335 - __main__ - INFO - Hola
+2024-06-03 17:30:14,042 - main  - INFO - This is an info message
+2024-06-03 17:30:14,043 - test  - INFO - Testing
+2024-06-03 17:30:14,044 - main  - INFO - Hola
+2024-06-03 17:30:30,627 - __main__  - INFO - This is an info message
+2024-06-03 17:30:30,628 - __test__  - INFO - Testing
+2024-06-03 17:30:30,629 - __main__  - INFO - Hola
+2024-06-04 08:59:23,473 - __main__  - INFO - This is an info message
+2024-06-04 08:59:23,476 - __test__  - INFO - Testing
+2024-06-04 08:59:23,477 - __main__  - INFO - Hola
+2024-06-04 08:59:23,478 - __main__  - WARNING - Atento.!!
+2024-06-04 08:59:23,479 - __main__  - INFO - Te lo dije.!!
+2024-06-04 08:59:23,481 - __main__  - WARNING - Atento.!!
+2024-06-04 08:59:23,482 - __main__  - INFO - Te lo dije.!!

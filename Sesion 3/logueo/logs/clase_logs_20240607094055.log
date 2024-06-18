@@ -1,0 +1,6 @@
+2024-06-07 09:40:55,810 root get_logger logger_config 10 : inicializando
+2024-06-07 09:40:55,811 root get_logger logger_config 30 : inicializando
+2024-06-07 09:40:55,814 root get_logger logger_config 10 : inicializando
+2024-06-07 09:40:55,815 root get_logger logger_config 30 : inicializando
+2024-06-07 09:40:55,815 root main inicializar_logger 10 : estoy en el main
+2024-06-07 09:40:55,816 root main inicializar_logger 40 :  la division por cero no esta permididat 

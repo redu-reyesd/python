@@ -1,0 +1,6 @@
+2024-06-07 09:42:54,269 root get_logger logger_config DEBUG : inicializando
+2024-06-07 09:42:54,270 root get_logger logger_config WARNING : inicializando
+2024-06-07 09:42:54,273 root get_logger logger_config DEBUG : inicializando
+2024-06-07 09:42:54,274 root get_logger logger_config WARNING : inicializando
+2024-06-07 09:42:54,275 root main inicializar_logger DEBUG : estoy en el main
+2024-06-07 09:42:54,276 root main inicializar_logger ERROR :  la division por cero no esta permidida
