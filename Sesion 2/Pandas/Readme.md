@@ -107,8 +107,8 @@ Argumentos:
 | 0001  | Bulbasaur  | 1          | Grass | Poison|
 
 
-`<cite>`{=html} Nota: No indecar el parametro header tiene el mismo
-efecto que usar header=None`</cite>`{=html}
+<cite> Nota: No indecar el parametro header tiene el mismo
+efecto que usar header=None</cite>
 
 ``` python
 
