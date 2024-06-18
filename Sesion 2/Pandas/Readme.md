@@ -169,9 +169,7 @@ siguientes paginas puede encontrar datasets publicos:
 
 Tambien puede hacer uso de los dataset en el siguiente directorio
 ./datasets
-:::
 
-::: {.cell .code execution_count="30" id="S80mx37_oVpT"}
 ``` python
 
 import pandas as pd
