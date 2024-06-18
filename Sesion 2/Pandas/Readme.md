@@ -128,9 +128,6 @@ print
 print(df)
 ```
 
-``` python
-print(df)
-```
 
 
             Id          Name  Generacion     type1    type2
