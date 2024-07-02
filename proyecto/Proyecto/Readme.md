@@ -44,6 +44,7 @@ En el directorio <a href="./suplementos"> sumplementos </a>  podrá encontrar lo
     - Cree un archivo de configuración (logging.conf) que contenga todos los parámetros necesarios para registrar mensajes en archivos y en la terminal.
     - Inicie el logging en una función utilizando el archivo de configuración y la librería configparser. Asegúrese de que la configuración incluya niveles de registro apropiados, formatos de mensaje y manejadores (handlers) para archivos y terminal.
     - Puede consultar el siguiente [enlace](https://github.com/redu-reyesd/python/tree/main/Sesion%203/Logging)
+
 - Importe el archivo CSV a Python como CSV
     ```python
         import csv
@@ -59,11 +60,22 @@ En el directorio <a href="./suplementos"> sumplementos </a>  podrá encontrar lo
         - Asignar interfaces del rango 2/1 - 3 a la VLAN 200 en el switch 1.
         - Asignar interfaces del rango 2/1 - 3 a la VLAN 400 en el switch 3.
     - Apague todas las interfaces que no están en uso (*tip: pueden ser identificadas como todas las interfaces sin descripción*)
+    *Nota, en este [enlace](https://github.com/redu-reyesd/python/blob/main/Sesion%204/cfg.py) puede leer un archivo cfg*
+    Ejemplo archivo CFG:
+    ```bash
+    [config]
+    sw1 =  interface range ethernet 2/1 - 3
+            switch port mode access vlan 200 
+    sw3 =  interface range ethernet 2/1 - 3
+            switch port mode access vlan 400
+    int_mode = duplex full
+    ```
 ## Reporte
 
-Realice un reporte en u acrhivo csv q contenga las siguientes datos nombre del equipo,management ip,interfaz,estado de la interface (Up/Down), Vlan
+Realice un reporte en un archivo CSV que contenga los siguientes datos: nombre del equipo, IP de gestión, interfaz, estado de la interfaz (Up/Down), VLAN.
 
-ejemplo:
+
+Ejemplo:
 | Nombre del Switch | Management IP    | Interfaz    | Estado | VLAN ID |
 |-------------------|------------------|-------------|--------|---------|
 | SW1               | 192.168.100.244  | Ethernet0/0 | Down   | 100     |
