@@ -25,7 +25,7 @@ Siga los siguientes pasos para poder cinfigurar la red.
 
         ![](../IMG/red4.png)
         - seleccion Host-Only, luego apply y ok: 
-        
+
         ![](../IMG/red5.png)
         
 3. Verificar y configurar la red Host-Only:
@@ -52,18 +52,23 @@ Siga los siguientes pasos para poder cinfigurar la red.
     - Asegúrate de que el servidor DHCP está configurado para proporcionar direcciones IP dentro de este rango. Haz clic en DHCP Settings y configura el rango de direcciones IP asignadas por DHCP, por ejemplo, desde 192.168.163.3 hasta 192.168.163.254.
     - Si no existiese siga los siguientes pasos:
         - Seleccione *Add Network*: 
+
         ![](../IMG/red3.png) 
-        - Seleccione vnet8 y click en ok 
+        - Seleccione vnet8 y click en ok:
+
         ![](../IMG/red6.png)
         - seleccion NAT
         - *Coonnect a host to virtual adapter to this network*
         -  *Use local DHCP service to distribute IP address to VMs*
         - Luego apply y ok: 
+
         ![](../IMG/red7.png)
         - Verifique que el gateway de la red:
             - Click en *Nat Settings*: 
+
             ![](../IMG/red8.png) 
             - Asegurese de que el gateway es 192.168.163.2:
+            
             ![](../IMG/red9.png)
             *Nota: si la direccion no es 192.168.163.2, corrija la direccion para que sea la direccion 192.168.163.2*
 
