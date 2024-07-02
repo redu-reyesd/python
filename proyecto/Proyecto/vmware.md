@@ -20,8 +20,10 @@ Siga los siguientes pasos para poder cinfigurar la red.
     - Si no existe, entonces siga los siguientes pasos:
         - Seleccione *Add Network*: 
         ![](../IMG/red3.png) 
-        - Seleccione vnet1 y click en ok ![](../IMG/red4.png)
-        - seleccion Host-Only, luego apply y ok: ![](../IMG/red5.png)
+        - Seleccione vnet1 y click en ok 
+        ![](../IMG/red4.png)
+        - seleccion Host-Only, luego apply y ok: 
+        ![](../IMG/red5.png)
         
 3. Verificar y configurar la red Host-Only:
 
@@ -53,7 +55,8 @@ Siga los siguientes pasos para poder cinfigurar la red.
         - seleccion NAT
         - *Coonnect a host to virtual adapter to this network*
         -  *Use local DHCP service to distribute IP address to VMs*
-        - Luego apply y ok: ![](../IMG/red7.png)
+        - Luego apply y ok: 
+        ![](../IMG/red7.png)
         - Verifique que el gateway de la red:
             - Click en *Nat Settings*: 
             ![](../IMG/red8.png) 
