@@ -1,0 +1,124 @@
+version 15.2
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname R1
+!
+boot-start-marker
+boot-end-marker
+!
+!
+!
+no aaa new-model
+!
+!
+!
+!
+!
+!
+ip domain name lab.net
+ip cef
+no ipv6 cef
+!
+multilink bundle-name authenticated
+!
+!
+!
+!
+!
+!
+!
+!
+!
+username ssh_user privilege 15 secret 5 $1$5zeG$Uw/xupU.VCF21nbNlorXs1
+username lab privilege 15 password 0 somepass
+!
+redundancy
+!
+!
+ip ssh time-out 60
+ip ssh version 2
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ no ip address
+ shutdown
+ duplex half
+!
+interface GigabitEthernet1/0
+ ip address 192.168.163.135 255.255.255.0
+ ip access-group 101 in
+ ip nat outside
+ ip virtual-reassembly in
+ negotiation auto
+!
+interface GigabitEthernet2/0
+ no ip address
+ ip access-group 102 in
+ ip nat inside
+ ip virtual-reassembly in
+ negotiation auto
+!
+interface GigabitEthernet2/0.100
+ encapsulation dot1Q 100
+ ip address 192.168.100.1 255.255.255.0
+ ip nat inside
+ ip virtual-reassembly in
+!
+interface GigabitEthernet2/0.200
+ encapsulation dot1Q 200
+ ip address 192.168.200.1 255.255.255.0
+ ip nat inside
+ ip virtual-reassembly in
+!
+ip forward-protocol nd
+no ip http server
+no ip http secure-server
+!
+!
+ip nat inside source static 192.168.244.1 192.168.163.233
+ip nat inside source static 192.168.100.244 192.168.163.244
+ip nat inside source static 192.168.200.245 192.168.163.245
+ip route 0.0.0.0 0.0.0.0 GigabitEthernet1/0
+!
+access-list 1 permit any
+access-list 101 permit ip any any
+access-list 102 permit ip any any
+!
+!
+!
+control-plane
+!
+!
+!
+mgcp profile default
+!
+!
+!
+gatekeeper
+ shutdown
+!
+!
+line con 0
+ stopbits 1
+line aux 0
+ stopbits 1
+line vty 0 4
+ login local
+ transport input ssh
+line vty 5 15
+ access-class 1 in
+ login
+ transport input ssh
+!
+!
+end
