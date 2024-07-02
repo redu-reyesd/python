@@ -6,7 +6,10 @@
 - GNS3
 - Configuración de ambiente en VMware
 
+La siguiente [guía](./GNS3.md) ofrece los pasos para configurar GNS3 utilizan un ova para vmware y configurando GNS3 VM.
+
 La siguiente [guía](./vmware.md) ofrece un paso a paso sobre como configrar el ambiente en vmware.
+
 
 ## Tópicos
 
