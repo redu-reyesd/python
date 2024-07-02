@@ -3,6 +3,14 @@
 
 Descargar la VM de GNS3 en el siguiente [enlace](https://crgworkforce-my.sharepoint.com/:f:/g/personal/rreyes_getcrg_com/EpFrFibN5UBLm0bER8xrWF8Bx7PjuL-_bffBQ0wgu-Hf2w?e=gRJuso)
 
+Requisitos de la maquina virtual:
+- 2 a 4 cpu
+    - Desabilitar *Nnested virtualization*:
+    ![](../IMG/red13.png)
+- 2 a 4 gigas de RAM
+
+![](../IMG/red14.png)
+
 
 Abra VMware Workstation.
 Click a File > Open y selecciona el archivo .ova descargado de la VM de GNS3.
