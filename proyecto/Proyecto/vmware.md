@@ -18,9 +18,10 @@ Siga los siguientes pasos para poder cinfigurar la red.
 
     - En el Virtual Network Editor, busca la red VMnet1. Esta red suele estar configurada como Host-Only por defecto.
     - Si no existe, entonces siga los siguientes pasos:
-        - Seleccione *Add Network*: 
+        - Seleccione *Add Network*:
+
         ![](../IMG/red3.png) 
-        - Seleccione vnet1 y click en ok 
+        - Seleccione vnet1 y click en ok :
         ![](../IMG/red4.png)
         - seleccion Host-Only, luego apply y ok: 
         ![](../IMG/red5.png)
