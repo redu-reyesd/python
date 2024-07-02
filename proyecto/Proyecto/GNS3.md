@@ -1,7 +1,7 @@
 # GNS 3 setup
 ## Descargar e Importar GNS3 VM en VMware Workstation
 
-Descargar la VM de GNS3 en el siguiente enlace
+Descargar la VM de GNS3 en el siguiente [enlace](https://crgworkforce-my.sharepoint.com/:f:/g/personal/rreyes_getcrg_com/EpFrFibN5UBLm0bER8xrWF8Bx7PjuL-_bffBQ0wgu-Hf2w?e=gRJuso)
 
 
 Abra VMware Workstation.
@@ -36,5 +36,5 @@ Sigue las instrucciones para importar la VM.
     - Asegúrese de que el tipo de máquina virtual está configurado como VMware Workstation.
     - En VM name, seleccione la VM de GNS3 que importaste anteriormente.
     - Haga clic en Test Settings para verificar que GNS3 puede comunicarse con la VM.
-    
+
     ![](../IMG/red11.png)
