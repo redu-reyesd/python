@@ -11,7 +11,7 @@ La siguiente [guía](./vmware.md) ofrece un paso a paso sobre como configrar el 
 
 La siguiente [guía](./GNS3.md) ofrece los pasos para configurar GNS3 utilizan un ova para vmware y configurando GNS3 VM.
 
-Descargue e importe el siguiente [proyecto](https://crgworkforce-my.sharepoint.com/:u:/g/personal/rreyes_getcrg_com/EYREOkL19cBKkml4z1tCHuMBog4TtXksNcw2CH34oFZ9QA?e=dBBqjW) a su GNS3 
+Descargue e importe el siguiente [proyecto](https://crgworkforce-my.sharepoint.com/:u:/g/personal/rreyes_getcrg_com/ERDwToKn34VJkBGu1_7wI3UBkcbYkhZ3HbhtDziJM5UZGg?e=sc7PWh) a su GNS3 
 
 
 
