@@ -69,8 +69,8 @@ En el directorio <a href="./suplementos"> sumplementos </a>  podrá encontrar lo
         - Asignar interfaces del rango 2/1 - 3 a la VLAN 200 en el switch 1.
         - Asignar interfaces del rango 2/1 - 3 a la VLAN 400 en el switch 3.
     - Apague todas las interfaces que no están en uso (*tip: pueden ser identificadas como todas las interfaces sin descripción*)
-    *Nota, en este [enlace](https://github.com/redu-reyesd/python/blob/main/Sesion%204/cfg.py) puede leer un archivo cfg*
-    
+    *Nota, en este [enlace](https://github.com/redu-reyesd/python/blob/main/Sesion%204/cfg.py) puede leer un archivo cfg.*
+
     Ejemplo archivo CFG:
     ```bash
     [config]

@@ -1,0 +1,3 @@
+2024-07-02 12:29:42,359 root congfig_parser log_parser DEBUG : inicializando
+2024-07-02 12:29:42,360 root congfig_parser log_parser WARNING : inicializando
+2024-07-02 12:29:46,216 root main inicialize INFO :  Inventory successfully  loaded, 6 items in inventory

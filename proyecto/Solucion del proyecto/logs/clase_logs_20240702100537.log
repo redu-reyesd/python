@@ -1,0 +1,3 @@
+2024-07-02 10:05:37,616 root congfig_parser log_parser DEBUG : inicializando
+2024-07-02 10:05:37,619 root congfig_parser log_parser WARNING : inicializando
+2024-07-02 10:05:42,376 root main <module> ERROR :  An error occured during the execution of the script exiting routine inicialize() takes 0 positional arguments but 2 were given

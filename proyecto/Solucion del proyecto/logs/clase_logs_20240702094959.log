@@ -1,0 +1,3 @@
+2024-07-02 09:50:01,142 root congfig_parser log_parser DEBUG : inicializando
+2024-07-02 09:50:06,577 root congfig_parser log_parser WARNING : inicializando
+2024-07-02 09:50:15,923 root main <module> ERROR :  An error occured during the execution of the script exiting routine {e}
