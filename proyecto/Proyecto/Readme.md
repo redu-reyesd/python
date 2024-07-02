@@ -32,6 +32,7 @@ En el directorio <a href="./suplementos"> sumplementos </a>  podrá encontrar lo
 - Inventario con direcciones IP de los equipos
 - Llave privada para descifrar el archivo de credenciales
 - Credenciales, archivo encriptado que contiene las credenciales SSH de los equipos en el inventario. El archivo de credenciales contiene el siguiente formato: 
+
 ![](../IMG/creds.png)
 
 
