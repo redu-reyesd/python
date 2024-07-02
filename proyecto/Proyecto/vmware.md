@@ -22,8 +22,10 @@ Siga los siguientes pasos para poder cinfigurar la red.
 
         ![](../IMG/red3.png) 
         - Seleccione vnet1 y click en ok :
+
         ![](../IMG/red4.png)
         - seleccion Host-Only, luego apply y ok: 
+        
         ![](../IMG/red5.png)
         
 3. Verificar y configurar la red Host-Only:
