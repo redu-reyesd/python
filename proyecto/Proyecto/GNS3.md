@@ -1,7 +1,7 @@
 # GNS 3 setup
 ## Descargar e Importar GNS3 VM en VMware Workstation
 
-Descargar la VM de GNS3 en el siguiente [enlace](https://crgworkforce-my.sharepoint.com/:u:/g/personal/rreyes_getcrg_com/ERDwToKn34VJkBGu1_7wI3UBkcbYkhZ3HbhtDziJM5UZGg?e=tXlt1v)
+Descargar la VM de GNS3 en el siguiente [enlace](https://crgworkforce-my.sharepoint.com/:f:/g/personal/rreyes_getcrg_com/EpFrFibN5UBLm0bER8xrWF8Bx7PjuL-_bffBQ0wgu-Hf2w?e=aOFmMF)
 
 Requisitos de la maquina virtual:
 - 2 a 4 cpu
