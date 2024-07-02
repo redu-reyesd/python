@@ -19,8 +19,7 @@ Sigue las instrucciones para importar la VM.
 ## Descargar e Instalar GNS3
 1. Descargar GNS3:
 
-    - Abra al sitio web oficial de GNS3: https://www.gns3.com/software/download
-    - Descarga el instalador para Windows.
+    - Descargue el instalador para Windows en el siguiente [enlace](https://crgworkforce-my.sharepoint.com/:u:/g/personal/rreyes_getcrg_com/EbrF0NgRtsFCkOJ8qOnvcHEBr0DaKoK8g7tCB_55ukrleA?e=DuLzeK).
 2. Instalar GNS3:
 
     - Ejecute el instalador descargado.
