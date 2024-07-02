@@ -6,9 +6,13 @@
 - GNS3
 - Configuración de ambiente en VMware
 
-La siguiente [guía](./GNS3.md) ofrece los pasos para configurar GNS3 utilizan un ova para vmware y configurando GNS3 VM.
 
 La siguiente [guía](./vmware.md) ofrece un paso a paso sobre como configrar el ambiente en vmware.
+
+La siguiente [guía](./GNS3.md) ofrece los pasos para configurar GNS3 utilizan un ova para vmware y configurando GNS3 VM.
+
+Descargue e importe el siguiente [proyecto](https://crgworkforce-my.sharepoint.com/:u:/g/personal/rreyes_getcrg_com/EYREOkL19cBKkml4z1tCHuMBog4TtXksNcw2CH34oFZ9QA?e=dBBqjW) a su GNS3 
+
 
 
 ## Tópicos
@@ -24,7 +28,7 @@ Se realizará un repaso de los siguientes temas:
 - Archivos de configuración.
 - Netmiko. 
 
-
+Topología del proyecto.
 
 ## Netmiko.
 
