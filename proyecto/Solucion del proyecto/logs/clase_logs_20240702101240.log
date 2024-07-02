@@ -1,3 +1,0 @@
-2024-07-02 10:12:40,999 root congfig_parser log_parser DEBUG : inicializando
-2024-07-02 10:12:41,003 root congfig_parser log_parser WARNING : inicializando
-2024-07-02 10:12:43,855 root main inicialize INFO :  Inventory loades successfully , {str(len(inventario))}

@@ -1,4 +1,0 @@
-2024-07-02 12:25:25,330 root congfig_parser log_parser DEBUG : inicializando
-2024-07-02 12:25:25,332 root congfig_parser log_parser WARNING : inicializando
-2024-07-02 12:25:27,057 root main inicialize INFO :  Inventory successfully  loaded, 6 items in inventory
-2024-07-02 12:25:30,461 root main inicialize ERROR :  Unable to import inventory, string indices must be integers, not 'str'

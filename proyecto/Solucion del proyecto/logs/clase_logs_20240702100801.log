@@ -1,3 +1,0 @@
-2024-07-02 10:08:01,398 root congfig_parser log_parser DEBUG : inicializando
-2024-07-02 10:08:01,400 root congfig_parser log_parser WARNING : inicializando
-2024-07-02 10:09:20,336 root main inicialize ERROR :  Unable to import inventory, [Errno 2] No such file or directory: './suplementos/inventory.csv'

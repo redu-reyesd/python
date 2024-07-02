@@ -1,3 +1,0 @@
-2024-07-02 10:39:09,917 root congfig_parser log_parser DEBUG : inicializando
-2024-07-02 10:39:09,920 root congfig_parser log_parser WARNING : inicializando
-2024-07-02 12:20:12,513 root main inicialize ERROR :  Unable to import inventory, Usecols do not match columns, columns expected but not found: ['0', '1']
