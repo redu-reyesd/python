@@ -28,7 +28,8 @@ Se realizará un repaso de los siguientes temas:
 - Archivos de configuración.
 - Netmiko. 
 
-Topología del proyecto.
+Topología del proyecto:
+![](../IMG/topo.png)
 
 ## Netmiko.
 
